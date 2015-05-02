@@ -2,7 +2,7 @@
     "name": "express-combo-seajs",
     "description": "express combo middleware for seajs",
     "version": "1.0.6",
-    "license": "GPLv3",
+    "license": "GPL-3.0",
     "author": {
         "name": "looping",
         "email": "looping84@gmail.com"
